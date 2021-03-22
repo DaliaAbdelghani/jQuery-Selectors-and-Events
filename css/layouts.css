@@ -1,0 +1,16 @@
+.img{
+    width: 100px;
+    height: 100px;
+}
+
+div {
+    box-sizing: border-box;
+    float: left;
+    border: solid;
+    text-align: center;
+    width: 150px;
+    height: 150px;
+    overflow: auto;
+    margin: 10px;
+    border-color: whitesmoke;
+}
