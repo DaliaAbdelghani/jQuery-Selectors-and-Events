@@ -6,3 +6,10 @@ select {
     height: fit-content;
     width: fit-content;
 }
+
+a {
+    display: block;
+    float: right;
+    margin-right: 205px;
+    color: white;
+}
