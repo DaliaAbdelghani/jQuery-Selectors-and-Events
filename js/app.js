@@ -31,7 +31,7 @@ function Image ( title, path, description) {
 }
 
 Image.prototype.renderImage = function (){
-  let myObj = `<div><h4>${this.title}</h4><img class='img' src='${this.path}'><p>${this.description}</p></div>`;
+  let myObj = `<div><h3>${this.title}</h3><img class='img' src='${this.path}'><p>${this.description}</p></div>`;
   $('main').append(myObj);
 };
 
