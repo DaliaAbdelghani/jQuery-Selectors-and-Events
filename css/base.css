@@ -5,10 +5,6 @@
     font-family: 'Baloo Tammudu 2';
 }
 
-main {
-    margin-left: 200px;
-    
-}
 
 body {
     background-image: radial-gradient(circle, #490c2f, #5d1441, #721d55, #87266a, #9b3181, #a93892, #b73fa4, #c547b7, #d14cc7, #dd52d8, #e858e9, #f35ffb);
@@ -26,6 +22,8 @@ h1 {
     text-align: center;
     font-size: 40px;
 }
+
+
 
 
 
