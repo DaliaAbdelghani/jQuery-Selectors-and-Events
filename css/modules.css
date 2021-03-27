@@ -13,3 +13,11 @@ a {
     margin-right: 205px;
     color: white;
 }
+
+option , button{
+     width: max-content;
+    max-height: 35px;
+    background-color: white;
+    border-color: white;
+    border-radius: 15px;
+    }
